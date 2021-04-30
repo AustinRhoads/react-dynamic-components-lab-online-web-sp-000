@@ -1,6 +1,6 @@
 //your code here
 import React, { Component } from 'react';
-//import { render } from 'enzyme';
+import { render } from 'enzyme';
 
 
 export default class Comment extends Component {
